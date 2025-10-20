@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Muroslav\\source\\repos\\Lab5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61EC6C34-C160-A36B-FDF4-EBAE721D1C0D}|UnitTest5.1\\UnitTest5.1.vcxproj|C:\\Users\\Muroslav\\source\\repos\\Lab5.1\\UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EC6C34-C160-A36B-FDF4-EBAE721D1C0D}|UnitTest5.1\\UnitTest5.1.vcxproj|solutionrelative:UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD041932-3851-45CC-967A-61A54F1ABBC8}|Lab5.1\\Lab5.1.vcxproj|C:\\Users\\Muroslav\\source\\repos\\Lab5.1\\Lab5.1\\Lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD041932-3851-45CC-967A-61A54F1ABBC8}|Lab5.1\\Lab5.1.vcxproj|solutionrelative:Lab5.1\\Lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Muroslav\\source\\repos\\Lab5.1\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.1\\UnitTest5.1.cpp",
+              "ToolTip": "C:\\Users\\Muroslav\\source\\repos\\Lab5.1\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeToolTip": "UnitTest5.1\\UnitTest5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T17:12:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab5.1.cpp",
               "DocumentMoniker": "C:\\Users\\Muroslav\\source\\repos\\Lab5.1\\Lab5.1\\Lab5.1.cpp",
               "RelativeDocumentMoniker": "Lab5.1\\Lab5.1.cpp",
